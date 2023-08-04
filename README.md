@@ -9,7 +9,10 @@ This project analyzes data from a fictional company,AY. AY has a plethora of pro
 Over 75% of transactions by consumers of company AY's products are cancelled, the company struggles to maximize the sale of its 97 categories of products leading to consistent business losses which may force the company into Bankruptcy. This analysis traces the trends in consumer behaviour and buying, to profer a solution to increasing sales retention across age groups and regions.
 
 **<ins>Data Cleaning Process</ins>**
-![](<ins>)
+![](DataCleaning1.png)
+![](DataCleaning2.png)
+![](DataCleaning3.png)
+![](DataView.png)
 
 **<ins> Background </ins>:**
 Company AY sells to 5 age groups of adults from age 18 to over 61, AY has 97 products line, all products selling in 36 regions, the data shows details of sales to each age group in various regions as well as the gross transactions and net transaction from each class of consumer.
